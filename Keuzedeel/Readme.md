@@ -2,7 +2,7 @@
 Deze folder bevat alle feitelijke informatie over het keuzedeel en het examen.
 
 # Planning
-Met uitzondering van sprint 0 en 4 duren alle sprints 2 weken.
+Met uitzondering van sprint 0 en 4 duren alle sprints 2 weken. Aan het einde van iedere sprint is er een speelbaar prototype.
 ## Sprint 0   <SPRINT>
 Deze sprint staat in teken van het opstarten van het project. De studenten krijgen de briefing, maken de keuze welke hardware gebruikt gaat worden, en maken een initiele plan hoe ze het gaan aanpakken. Dit plan presenteren ze en de docenten geven ze een go of een nogo.
 

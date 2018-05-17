@@ -6,7 +6,7 @@ Het logboek komt te staan op Google Calenders. Iedere groep maakt zijn eigen cal
 Voor presentaties 1, 2 en eind wordt dezelfde template gebruikt.  
 In de presentatie gaan jullie je portfolios toelichten. Jullie gaan dus presenteren:
 * **Scrum**  
-We gaan er vanuit dat jullie iets doen met project managment en planning. Laat jullie methodiek zien. 
+We gaan er vanuit dat jullie iets doen met project managment en planning. Laat jullie methodiek zien.
 
 * **Onderzoek**  
 Jullie gaan presenteren wat jullie onderzocht hebben en hoe jullie tot de conclusie zijn gekomen.   
@@ -19,7 +19,8 @@ Tijdens het testen zijn allemaal dingen naar voren gekomen. De meest opmerkelijk
 
 
 ## Documentatie
-De templates zijn voorbeelden die jullie kunnen gebruiken/invullen voor jullie portfolios.
+De templates zijn voorbeelden die jullie kunnen gebruiken/invullen voor jullie portfolios. Documenten.
+
 ### Onderzoek
 In dit document kun je jouw onderzoek documenteren. Welke hardware werkt op welke manier, welke software is te gebruiken. Registreer de bronnen die jullie hebben gevonden en tot welke conclusie jullie zijn gekomen.  
 Maak een kopie van [deze template](https://docs.google.com/document/d/1UOHzsrJG-jTmp1lTipodYmyVxfs44spd-Fb58vNOdc8/edit?usp=sharing) en bewaar deze op jullie eigen Google Drive.
