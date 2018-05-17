@@ -8,7 +8,7 @@ Team 14
 ## Ontwerp
 Beschrijf hier kort jullie project
 
-## Portfolio
+## Documentatie
 
 * [Generaal](https://drive.google.com/drive/u/0/folders/1_psvB2sHf1jGJt2STFgHuVnwN2IoPduy)
 * [Onderzoek](https://docs.google.com/document/d/1VKK6yHnHQjxMLSdVrzA-sQkBtxAPOI-4UhY69gf3rD8/edit)
