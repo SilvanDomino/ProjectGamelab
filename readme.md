@@ -1,7 +1,9 @@
 # Speciale Input - Output
+
 Team 14
 1. Joshua Pole  [Portfolio](https://23588.hosts.ma-cloud.nl/)
 2. Jessey Stend [Portfolio](https://22351.hosts.ma-cloud.nl/)
+
 
 [Projectmanagment](https://trello.com/b/s2YklCTU/projectgamelab) <Trello scrumboard bijvoorbeeld>
 
