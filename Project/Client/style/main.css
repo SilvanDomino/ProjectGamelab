@@ -2,7 +2,19 @@ body {
   font-family: "Helvetica Neue", sans-serif;
   margin: 0;
   padding: 0;
+  height: 50em;
 }
+
+#CreateAGame{
+  margin: 0 auto;
+  width: 50%;
+  height: 50%;
+  border: solid black 0.2em;
+  border-radius: 10%;
+
+}
+
+
 
 input {
   outline: none;
@@ -12,7 +24,7 @@ input {
 
 button {
   text-transform: uppercase;
-  font-size: 0.8rem;
+  font-size: 150%;
   padding: 3px 15px;
   color: white;
   line-height: 25px;
@@ -21,7 +33,7 @@ button {
   border-radius: 2px;
   cursor: pointer;
   box-shadow: rgba(0, 0, 0, 0.12) 0 1px 6px, rgba(0, 0, 0, 0.12) 0 1px 4px;
-  transition: all 150ms ease-in;
+  transition: all 0.5s ease-in;
   outline: none;
 }
 
@@ -39,51 +51,24 @@ button.turn:hover {
   background-color: #eaeaea;
 }
 
-.rps-wrapper {
-  background-color: rgb(255, 255, 255);
-  width: 500px;
-  height: 300px;
-  max-height: 300px;
-  margin: 20px auto;
-  display: flex;
-  flex-direction: column;
-  border: 1px solid lightgrey;
+#CreateAGameMenu{
+  width: 50%;
+  height: 50%;
+  border: solid black 0.2em;
+  border-radius: 10%;
+  position: fixed;
+  transform: translateX(50%) translateY(1em);
 }
 
-#events {
-  flex-grow: 1;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  border-bottom: 1px solid lightgrey;
-  overflow-y: scroll;
+#CreateAGameContent{
+  margin: 0 auto;
+  margin-top: 10%;
+  width: 50%;
+  height: 50%;
 }
 
-#events li {
-  padding: 10px 10px 10px 10px;
-}
-
-.chat-wrapper {
-  padding: 10px;
-}
-
-.chat-wrapper form {
-  display: flex;
-}
-
-.chat-wrapper form input {
-  font-size: 1.0rem;
-  margin: 0 10px 0 0;
-  padding: 0 5px;
-  flex-grow: 1;
-}
-
-.chat-wrapper form button {
-  width: 80px;
-}
-
-.button-wrapper {
-  display: flex;
-  padding: 10px 50px;
-  justify-content: space-evenly;
+#CreateAGameContent > button{
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
 }
